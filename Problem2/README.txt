@@ -1,1 +1,1 @@
-
+I had some problems with libraries, so i did a task a bit different. I made it in Jupyter Notebook. It just collects general CPU and virtual memory usage and collects it into a file in JSON format. Recording stops if you stop the process. 
